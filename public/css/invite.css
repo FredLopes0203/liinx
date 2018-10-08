@@ -1,0 +1,71 @@
+/* enable absolute positioning */
+.inner-addon {
+    position: relative;
+}
+
+/* style glyph */
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+/* align glyph */
+.left-addon .glyphicon  { left:  0px;}
+.right-addon .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+.userlistdiv
+{
+    padding-bottom: 15px;
+    border: 1px !important;
+    border-color: darkgray !important;
+    border-style: solid !important;
+}
+
+.userlistcelldiv
+{
+    margin-top: 15px;
+    margin-bottom: 7px;
+}
+.userlistprofilediv
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-flex;
+}
+
+.invite-btn
+{
+    margin-left: 10px;
+    width: 100px;
+    background-color: #E17933;
+}
+
+.optdiv
+{
+    float: right;
+    margin-right: 25px;
+    margin-top: 8px;
+}
+
+.cellspacediv
+{
+    padding-left: 80px;
+    padding-right: 25px;
+}
+
+.request-accept-btn
+{
+    margin-left: 10px;
+    width: 70px;
+}
+
+.request-reject-btn
+{
+    margin-left: 10px;
+    width: 70px;
+}

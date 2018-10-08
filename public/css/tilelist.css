@@ -1,0 +1,215 @@
+.tilegallery
+{
+
+}
+
+.gallerytilediv
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.gallery-title
+{
+    font-size: 15px;
+    margin: 0px;
+}
+
+.gallery-btn
+{
+    padding: 0px !important;
+    font-size: 16px !important;
+    margin-top: -15px;
+}
+
+.request-btn
+{
+    border: solid;
+    border-color: #3f729b;
+    border-width: 1px;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 14px !important;
+    padding-bottom: 1px !important;
+}
+
+.reject-btn
+{
+    border: solid;
+    border-color: #c61821;
+    border-width: 1px;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 14px !important;
+    padding-bottom: 1px !important;
+    color : #c61821;
+}
+
+.gallerybtnbox
+{
+    height: 20px;
+    margin-top: 3px !important;
+}
+
+.gallery-separator
+{
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-top: none;
+    border-width: 1px;
+}
+
+.tilediv
+{
+    margin-bottom: 30px;
+    padding-right: 40px;
+    padding-left:40px;
+    max-width: 750px;
+}
+
+.tilebox
+{
+    padding: 0 !important;
+}
+
+.tileimage
+{
+    width: 100%;
+    padding-top: 40%;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.divposterinfo
+{
+    padding: 10px;
+    display:  inline-flex;
+}
+
+.profileimgdiv
+{
+    max-width: 60px;
+}
+
+.profileinfodiv
+{
+    margin-left: 10px;
+    margin-top: -4px;
+}
+
+.posttextdiv
+{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.categorydiv
+{
+    margin-bottom: 30px
+}
+
+.postdiv
+{
+    margin-bottom: 50px;
+    border: 1px !important;
+    border-color: darkgray !important;
+    border-style: solid !important;
+}
+
+.postimgdiv
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.postimg
+{
+    width: 100%;
+}
+
+.replyactiondiv
+{
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.replybutton
+{
+    background-color: white;
+    color: black;
+    border: none;
+    width: 80px;
+}
+
+.replycenterbutton
+{
+    background-color: white;
+    color: black;
+    border: none;
+    width: 100px;
+}
+
+.spacediv
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.separatordiv1
+{
+    background-color: gray;
+    height: 1px;
+    margin-bottom: 5px;
+}
+
+.separatordiv2
+{
+    background-color: gray;
+    height: 1px;
+    margin-top: 5px;
+}
+
+.commentordiv
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inline-flex;
+}
+
+.commenttextdiv
+{
+    padding-left: 80px;
+    padding-right: 30px;
+}
+
+.settingwretchdiv
+{
+    float: right;
+    margin-right: 35px;
+    margin-top: 8px;
+}
+
+.sectionmanage-div
+{
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: -20px;
+}
+
+.sectiontile-div
+{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.tileorgtitle
+{
+    font-size: 18px;
+}
